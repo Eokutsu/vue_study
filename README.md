@@ -1,2 +1,1 @@
-# vuestudy
-# vuework
+# vue_study
